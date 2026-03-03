@@ -1,3 +1,5 @@
+alert("in DATA.js");
+console.log("in DATA.js");
 function fnReadK(ta) {
   t股號="WEIGT";
   ta[1]="1987/01/06;106313;106313;106313;106313;0";
@@ -10145,3 +10147,4 @@ function fnReadK(ta) {
   return t股號;
 
 }
+
